@@ -13,10 +13,10 @@
   
   ---------------------------------------------------------------------- */
   :root {
-      --color-lightest: rgb(254, 231, 118);
+      --color-lightest: rgb(255, 230, 106);
       --color-light: hsl(65, 95%, 76%);
-      --color: hsl(26, 100%, 73%);
-      --color-dark: hwb(14 27% 5%);
+      --color: hsl(59, 100%, 58%);
+      --color-dark: hwb(42 44% 0%);
       --font: "Open Sans", Helvetica, sans-serif;
   }
 
